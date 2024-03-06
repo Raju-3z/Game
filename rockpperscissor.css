@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(50, 53, 225);
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    }
+    .emo{
+        color: rgb(50, 53, 225);
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        border: 1px solid rgb(50, 53, 225);
+        border-radius: 25px 25px;
+        padding: 10px;
+        margin: 10px;
+        cursor: pointer;
+        border: 10px solid black;
+        height: fit-content;
+        width: 80px;
+        
+    }
+
+    .i{
+       
+        height:87px;
+        width: 83px;
+    }
+    .btnn{
+    
+        color: rgb(50, 53, 225);
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        border: 1px solid rgb(50, 53, 225);
+        border-radius: 25px 25px;
+        padding: 10px;
+        margin: 10px;
+        cursor: pointer;
+        
+    }
+    .resetbtn{
+        border: none;
+        background-color: rgb(255, 255, 255);
+        border: px solid black;
+        padding: 10px 20px;
+        font-weight: bold;
+        font-size: 25px;
+
+    }
